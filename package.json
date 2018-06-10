@@ -1,0 +1,23 @@
+{
+  "name": "bugshr",
+  "version": "1.0.0",
+  "description": "JS library for making bugshr URLs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugshr/bugshr.js.git"
+  },
+  "author": "skiilaa",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/bugshr/bugshr.js/issues"
+  },
+  "homepage": "https://github.com/bugshr/bugshr.js#readme",
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
